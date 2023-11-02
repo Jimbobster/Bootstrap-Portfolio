@@ -1,5 +1,19 @@
 .jim {
     width: 25%;
     height: 25%;
-   
+}
+
+.container-fluid {
+    background-image: url(../images/blueee.jpg);
+    text-align: center;
+    text-size-adjust: 10px;
+}
+
+.footer {
+    background-color: rgb(157, 201, 240);
+    padding: 20px;
+    text-align:center;
+}
+.card-text {
+    text-align: center;
 }
