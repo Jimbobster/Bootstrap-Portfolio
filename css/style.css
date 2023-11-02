@@ -4,16 +4,43 @@
 }
 
 .container-fluid {
-    background-image: url(../images/blueee.jpg);
     text-align: center;
     text-size-adjust: 10px;
+    padding: 20px;
 }
 
-.footer {
-    background-color: rgb(157, 201, 240);
-    padding: 20px;
-    text-align:center;
-}
 .card-text {
     text-align: center;
 }
+
+#header {
+    background-image: url(../images/matrix.jpg);
+    color: #0c0c0c;
+    font-size: auto;
+    font-weight: bold;
+}
+
+#work-section {
+    background-color: #333;
+    color: #0f0f0f;
+    font-size: auto;
+    padding: 10px;  
+    font-weight: bolder;
+    text-shadow: #f50a0a;
+}
+
+.footer {
+    background-color: rgb(129, 187, 238);
+    padding: 20px;
+    text-align:center;
+    font-weight: bolder;
+}
+
+.row {
+    background-image: url(../images/matrix.jpg);
+    padding: 20px;
+    
+}
+
+
+`
