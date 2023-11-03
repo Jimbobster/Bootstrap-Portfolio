@@ -1,12 +1,12 @@
 .jim {
     width: 25%;
-    height: 25%;
+    height: 25%;   
     
 }
 
 .container-fluid {
     text-align: center;
-    text-size-adjust: 10px;
+    text-size-adjust: 10px; 
     
 }
 
@@ -18,8 +18,8 @@
     color: #0c0c0c;
     font-size: auto;
     font-weight: bold;
-    padding: 10px;
-    
+    padding: 30px;
+    background-image: url(../images/matrix.jpg);   
 }
 
 #work-section {
@@ -27,39 +27,59 @@
     font-size: auto;
     font-weight: bolder;
     text-shadow: #f50a0a;
-}
-
-.footer {
-    background-image: url(../images/matrix.jpg);
-    padding: 20px;
-    mask-position: 20%;
-    text-align:center;
-    font-weight: bolder;
-    color: aliceblue;
-}
-
-.row {
-    background-image: url(../images/Banners.jpg);
-    padding: 0%;
-    
-    
+    background-image: url();
 }
 
 /* Hyperlink Hover Effect */
 a:hover {
-  color: #4133ff; 
+  color: #eeedf3; 
   text-decoration: underline;
+  text-decoration-color: #f50a0a;
 }
 
 /* Button Hover Effect - Box Shadow */
 .btn:hover {
-  box-shadow: 0 4px 6px rgba(219, 12, 12, 0.9); 
+  box-shadow: 10px 6px 8px rgba(219, 12, 12, 0.9); 
   transition: box-shadow 0.2s ease; 
+  text-decoration-color: #f50a0a;
 }
 
+/*Skills Section*/
 #skills {
 text-align: center;
 font-weight: bold;
+background-image: url(../images/blueee.jpg);
+color: rgb(0, 0, 0);
+padding: 55px;
+}
+
+#about-contact {
+text-align: center;
+font-weight: bold;
+background-image: url();
+color: rgb(248, 248, 248);
+padding: 55px;
 background-image: url(../images/Banners.jpg);
-color: white;
+}
+
+#container-fluid py-5 {
+    background-image: url();
+}
+
+#hero {
+    background-image: url(.);
+    
+}
+
+.nav link { 
+    font-weight: bold;
+}
+
+/* Footer */
+.footer {
+    text-align:center;
+    font-weight: bolder;
+    color: aliceblue;
+    padding-block: 20px;
+    background-image: url(../images/matrix.jpg);
 }
