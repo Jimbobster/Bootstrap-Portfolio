@@ -1,12 +1,13 @@
 .jim {
     width: 25%;
     height: 25%;
+    
 }
 
 .container-fluid {
     text-align: center;
     text-size-adjust: 10px;
-    padding: 20px;
+    
 }
 
 .card-text {
@@ -14,33 +15,51 @@
 }
 
 #header {
-    background-image: url(../images/matrix.jpg);
     color: #0c0c0c;
     font-size: auto;
     font-weight: bold;
+    padding: 10px;
+    
 }
 
 #work-section {
-    background-color: #333;
     color: #0f0f0f;
     font-size: auto;
-    padding: 10px;  
     font-weight: bolder;
     text-shadow: #f50a0a;
 }
 
 .footer {
-    background-color: rgb(129, 187, 238);
+    background-image: url(../images/matrix.jpg);
     padding: 20px;
+    mask-position: 20%;
     text-align:center;
     font-weight: bolder;
+    color: aliceblue;
 }
 
 .row {
-    background-image: url(../images/matrix.jpg);
-    padding: 20px;
+    background-image: url(../images/Banners.jpg);
+    padding: 0%;
+    
     
 }
 
+/* Hyperlink Hover Effect */
+a:hover {
+  color: #4133ff; 
+  text-decoration: underline;
+}
 
-`
+/* Button Hover Effect - Box Shadow */
+.btn:hover {
+  box-shadow: 0 4px 6px rgba(219, 12, 12, 0.9); 
+  transition: box-shadow 0.2s ease; 
+}
+
+#skills {
+text-align: center;
+font-weight: bold;
+background-image: url(../images/Banners.jpg);
+color: white;
+}
