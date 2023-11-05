@@ -1,47 +1,48 @@
 .jim {
-    width: 25%;
-    height: 25%;   
-    
+width: 25%;
+height: 25%;     
 }
 
 .container-fluid {
-    text-align: center;
-    text-size-adjust: 10px; 
-    
+text-align: center;
+text-size-adjust: 10px;  
 }
 
+/* Work Section Tect Alignment */
 .card-text {
-    text-align: center;
+text-align: center;
 }
 
+/* Header Style */
 #header {
-    color: #0c0c0c;
-    font-size: auto;
-    font-weight: bold;
-    padding: 30px;
-    background-image: url(../images/matrix.jpg);   
+color: #0c0c0c;
+font-size: auto;
+font-weight: bold;
+padding: 30px;
+background-image: url(../images/matrix.jpg);   
 }
 
+/* Work Section */
 #work-section {
-    color: #0f0f0f;
-    font-size: auto;
-    font-weight: bolder;
-    text-shadow: #f50a0a;
-    background-image: url();
+color: #0f0f0f;
+font-size: auto;
+font-weight: bolder;
+ text-shadow: #f50a0a;
+background-image: url();
 }
 
 /* Hyperlink Hover Effect */
 a:hover {
-  color: #eeedf3; 
-  text-decoration: underline;
-  text-decoration-color: #f50a0a;
+color: #eeedf3; 
+text-decoration: underline;
+text-decoration-color: #f50a0a;
 }
 
 /* Button Hover Effect - Box Shadow */
 .btn:hover {
-  box-shadow: 10px 6px 8px rgba(219, 12, 12, 0.9); 
-  transition: box-shadow 0.2s ease; 
-  text-decoration-color: #f50a0a;
+box-shadow: 0px 20px 20px rgba(219, 12, 12, 0.9); 
+transition: box-shadow 0.2s ease; 
+text-decoration-color: #f50a0a;
 }
 
 /*Skills Section*/
@@ -50,36 +51,39 @@ text-align: center;
 font-weight: bold;
 background-image: url(../images/blueee.jpg);
 color: rgb(0, 0, 0);
-padding: 55px;
+padding: 45px;
 }
 
+/* Contact Style */
 #about-contact {
 text-align: center;
 font-weight: bold;
 background-image: url();
 color: rgb(248, 248, 248);
-padding: 55px;
+padding: 30px;
 background-image: url(../images/Banners.jpg);
 }
 
+/* Header Style */
 #container-fluid py-5 {
-    background-image: url();
+background-image: url();
 }
 
+/* Header Style */
 #hero {
-    background-image: url(.);
-    
+background-image: url(../images/blueee.jpg);  
 }
 
+/* Novbar Text */
 .nav link { 
-    font-weight: bold;
+font-weight: bold;
 }
 
 /* Footer */
 .footer {
-    text-align:center;
-    font-weight: bolder;
-    color: aliceblue;
-    padding-block: 20px;
-    background-image: url(../images/matrix.jpg);
+text-align:center;
+font-weight: bolder;
+color: aliceblue;
+padding-block: 20px;
+background-image: url(../images/matrix.jpg);
 }
