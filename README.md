@@ -8,7 +8,7 @@ N/A
 
 ## Usage
 
-When the page is loaded, you will be presented with a webiste containing my portfolio. There is a navigation bar along the top of the page, containing links that are applicable to my portfolio:
+When the page is loaded, you will be presented with a website containing my portfolio. There is a navigation bar along the top of the page, containing links that are applicable to my portfolio:
 
 <li>When you click the Navigation Bar links, then you are taken to the appropiate section of the website.
 
@@ -31,8 +31,7 @@ Underneath the skills area, I added an "About Me" and "Contact Me" section in th
 I added a footer section at the bottom, containing a navigational link which takes you back to the top of the page when clicked.
 
 Screenshot :
-
-
+![Screenshot of my Portfolio](https://github.com/Jimbobster/Bootstrap-Portfolio/assets/146639118/2993a61b-b9e4-4034-9108-a921504afa4e)
 
 ## Credits
 Free images used from : https://www.pixabay.com
