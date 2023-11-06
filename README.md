@@ -8,7 +8,7 @@ N/A
 
 ## Usage
 
-When the page is loaded, you will be presented with a webiste containing my portfolio. There is a navigation bar along the top of the page, containing links that are applicable to my portfolio:
+When the page is loaded, you will be presented with a website containing my portfolio. There is a navigation bar along the top of the page, containing links that are applicable to my portfolio:
 
 <li>When you click the Navigation Bar links, then you are taken to the appropiate section of the website.
 
