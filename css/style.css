@@ -1,14 +1,16 @@
+/* Profile Picture */
 .jim {
 width: 25%;
 height: 25%;     
 }
 
+/* Main Background */
 .container-fluid {
 text-align: center;
 text-size-adjust: 10px;  
 }
 
-/* Work Section Tect Alignment */
+/* Work Section Text Alignment */
 .card-text {
 text-align: center;
 }
@@ -35,14 +37,14 @@ background-image: url();
 a:hover {
 color: #eeedf3; 
 text-decoration: underline;
-text-decoration-color: #f50a0a;
+text-decoration-color: #7c70e9;
 }
 
 /* Button Hover Effect - Box Shadow */
 .btn:hover {
-box-shadow: 0px 20px 20px rgba(219, 12, 12, 0.9); 
+box-shadow: 0px 20px 20px rgba(110, 3, 124, 0.9); 
 transition: box-shadow 0.2s ease; 
-text-decoration-color: #f50a0a;
+text-decoration-color: #9f0af5;
 }
 
 /*Skills Section*/
@@ -74,7 +76,7 @@ background-image: url();
 background-image: url(../images/blueee.jpg);  
 }
 
-/* Novbar Text */
+/* Navbar Text */
 .nav link { 
 font-weight: bold;
 }
@@ -87,3 +89,28 @@ color: aliceblue;
 padding-block: 20px;
 background-image: url(../images/matrix.jpg);
 }
+
+/* Skills Section Style */
+#skills {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  #skills h3 {
+    font-size: 24px; 
+    color: #080808;
+  }
+  
+  #skills li {
+    font-size: 22px;
+    margin: 10px 0;
+  }
+  
+  /* List Style */
+  #skills li:nth-child(odd) {
+    color: rgb(83, 3, 121) /* Blue color for odd items */
+  }
+  
+  #skills li:nth-child(even) {
+    color: #b6033f; /* Pink color for even items */
+  }
