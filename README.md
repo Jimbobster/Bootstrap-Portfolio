@@ -33,6 +33,12 @@ I added a footer section at the bottom, containing a navigational link which tak
 Screenshot :
 ![Screenshot of my Portfolio](https://github.com/Jimbobster/Bootstrap-Portfolio/assets/146639118/2993a61b-b9e4-4034-9108-a921504afa4e)
 
+The URL of the deployed application : https://jimbobster.github.io/Bootstrap-Portfolio/
+
+The URL of the GitHub repository that contains your code : https://github.com/Jimbobster/Bootstrap-Portfolio
+
+The URL of your previously deployed portfolio. : https://jimbobster.github.io/My-Portfolio/
+
 ## Credits
 Free images used from : https://www.pixabay.com
 Bootstrap Style from : https://getbootstrap.com/
